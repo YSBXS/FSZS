@@ -18,8 +18,8 @@
       "name": "📄公告┃百晓生",
       "type": 3,
       "api": "csp_BXSGG",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "changeable": 0,
       "jar": "./a.jar"
     },
