@@ -2,13 +2,13 @@
 	"spider":"./pg.jar",
 	"sites":[
 		{
-			"key": "直播转点播",
+			"key": "百晓生自制",
 			"name": "公众号┃影视百晓生",
 			"type": 3,
 			"searchable": 0,
 			"jar": "./a.jar", 
-			"api": "./lib/drpy2.min.js",
-            "ext": "./js/百晓生短剧.js"
+			"api": "./lib/BXSZZ.js",
+            "ext": "./js/BXSZZ.json"
 		},
 	  {"key":"Local","name":"本地空间","type":3,"api":"csp_Local"},
 	    
