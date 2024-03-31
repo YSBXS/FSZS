@@ -1,4 +1,4 @@
-斗破苍穹第一季,#公众号┃影视百晓生#
+斗破苍穹第一季,#genre#
 
 第1集,https://yzzy.play-cdn7.com/20220629/1393_8de5ba44/index.m3u8
 第2集,https://yzzy.play-cdn7.com/20220629/1401_7429d440/index.m3u8
@@ -13,7 +13,7 @@
 第11集,https://yzzy.play-cdn7.com/20220629/1418_5fd224c5/index.m3u8
 第12集,https://yzzy.play-cdn7.com/20220629/1402_1cc72205/index.m3u8
 
-斗破苍穹第二季,#公众号┃影视百晓生#
+斗破苍穹第二季,#genre#
 
 第1集,https://yzzy.play-cdn7.com/20220629/1348_358b43ea/index.m3u8
 第2集,https://yzzy.play-cdn7.com/20220629/1350_3a448a0a/index.m3u8
@@ -28,7 +28,7 @@
 第11集,https://yzzy.play-cdn7.com/20220629/1353_972dc463/index.m3u8
 第12集,https://yzzy.play-cdn7.com/20220629/1361_a42cae7c/index.m3u8
 
-斗破苍穹第三季,#公众号┃影视百晓生#
+斗破苍穹第三季,#genre#
 
 第1集,https://yzzy.play-cdn7.com/20220629/1363_b7748380/index.m3u8
 第2集,https://yzzy.play-cdn7.com/20220629/1364_9a303112/index.m3u8
@@ -43,7 +43,7 @@
 第11集,https://yzzy.play-cdn7.com/20220629/1367_4cb78771/index.m3u8
 第12集,https://yzzy.play-cdn7.com/20220629/1376_f3d87e6b/index.m3u8
 
-斗破苍穹第四季,#公众号┃影视百晓生#
+斗破苍穹第四季,#genre#
 
 第1集,https://yzzy.play-cdn7.com/20220629/1375_63b70443/index.m3u8
 第2集,https://yzzy.play-cdn7.com/20220629/1373_cc9276e2/index.m3u8
@@ -70,7 +70,7 @@
 第23集,https://yzzy.play-cdn7.com/20220629/1400_078d2b23/index.m3u8
 第24集,https://yzzy.play-cdn7.com/20220629/1396_ad9e19d8/index.m3u8
 
-斗破苍穹三年之约,#公众号┃影视百晓生#
+斗破苍穹三年之约,#genre#
 
 第1集,https://yzzy.play-cdn7.com/20220629/1413_0bde3b8e/index.m3u8
 第2集,https://yzzy.play-cdn7.com/20220629/1404_5631ceb3/index.m3u8
@@ -86,7 +86,7 @@
 第12集,https://yzzy.play-cdn7.com/20220629/1414_5e22da94/index.m3u8
 第13集,https://yzzy.play-cdn7.com/20220629/1437_cefa76b2/index.m3u8
 
-斗破苍穹年番,#公众号┃影视百晓生#
+斗破苍穹年番,#genre#
 
 第1集,https://yzzy.play-cdn8.com/20220731/11908_8b017ccd/index.m3u8
 第2集,https://yzzy.play-cdn8.com/20220731/11907_9740790e/index.m3u8

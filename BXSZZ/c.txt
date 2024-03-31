@@ -1,4 +1,4 @@
-莲花楼,#公众号┃影视百晓生#
+莲花楼,#genre#
 
 第1集,https://yzzy.play-cdn18.com/20230723/1454_107ed5b5/index.m3u8
 第2集,https://yzzy.play-cdn18.com/20230723/1453_5033c7fd/index.m3u8
